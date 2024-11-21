@@ -4,7 +4,7 @@
     <div class="fs-5 fs-md-3 fw-bold">Covid-19 Tracker</div>
 
     <p class="mt-2">
-      API By
+      API By.
       <a class="text-light" href="https://covid19api.com" target="_blank"
         >Covid19api.com</a
       >
